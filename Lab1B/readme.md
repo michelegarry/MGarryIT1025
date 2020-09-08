@@ -7,7 +7,11 @@ This lab is establishing what an information system is and its components.
 * Take the example of ATM that we use everyday. Explain or identify what is the hardware, software, data, people and process in the system you identified with respect to the ATM.
 
 Hardware 
-* PIN pad * Card reader * CPU * Display * Receipt printer
+* PIN pad 
+* Card reader 
+* CPU 
+* Display 
+* Receipt printer
 Software - Microsoft Windows, Linux 
 Data - Account balance, names, transactions
 People - Anyone who interacts with the machine and take out or deposit money
