@@ -1,22 +1,24 @@
 
 # Executive summary
-Type your executive summary as if you were explaining your lab on an IT team
+This lab is establishing what an information system is and its components.
 
 # Information System Components  
 
 * Take the example of ATM that we use everyday. Explain or identify what is the hardware, software, data, people and process in the system you identified with respect to the ATM.
 
-Hardware -
-Software - 
-Data - 
-People - 
-Process - 
+Hardware - PIN pad, card reader, CPU, display, receipt printer
+Software - Microsoft Windows, Linux 
+Data - Account balance, names, transactions
+People - Anyone who interacts with the machine and take out or deposit money
+Process - Reading card, displaying information, selecting amount of money, spitting out or depositing the correct amount of momey
 
 # Github
 
 * In GitHub you are experiencing a "Client-Server" architecture.  Explain what is meant by "client-server" architecture and how GitHub fits this model. 
+  *There are resources and services hosted by a server for clients. Git Hub is used by clients who are accesing services and such from a server to complete tasks like for developing software
 
 * Why is GitHub considered "Cloud Computing?" What other "cloud computing" environments do you use?
+  *Github is considered Cloud-Computing because the files that are being edited and shared are all stored on the cloud 
 
 # Conclusion
-In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components.
+It is interesting to have insight on what an Information System entails, and how we use at least something of the sort on a daily basis. There is nothing at the moment I can recall that I'd like to learn more of. Chapter one covered a bit of the bases.
