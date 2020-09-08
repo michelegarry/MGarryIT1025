@@ -34,7 +34,7 @@ Process
 # Github
 
 * In GitHub you are experiencing a "Client-Server" architecture.  Explain what is meant by "client-server" architecture and how GitHub fits this model. 
-  * There are resources and services hosted by a server for clients. Git Hub is used by clients who are accesing services and such from a server to complete tasks like for developing software
+  * There are resources and services hosted by a server for clients. Git Hub is used by clients who are accesing services and such from a server to complete tasks like developing software
 
 * Why is GitHub considered "Cloud Computing?" What other "cloud computing" environments do you use?
   * Github is considered Cloud-Computing because the files that are being edited and shared are all stored on the cloud 
