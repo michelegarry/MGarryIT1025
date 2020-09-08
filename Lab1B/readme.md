@@ -40,4 +40,4 @@ Process
   * Github is considered Cloud-Computing because the files that are being edited and shared are all stored on the cloud 
 
 # Conclusion
-It is interesting to have insight on what an Information System entails, and how we use at least something of the sort on a daily basis. There is nothing at the moment I can recall that I'd like to learn more of. Chapter one covered a bit of the bases.
+It is interesting to have insight on what an Information System entails, and how we use at least something of the sort on a daily basis. There is nothing at the moment I can recall that I'd like to learn more of. Chapter one covered a bit of the base subjects.
