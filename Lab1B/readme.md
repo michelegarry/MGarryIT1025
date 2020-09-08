@@ -22,8 +22,14 @@ Data
 * Names
 * Transactions
 
-People - Anyone who interacts with the machine and take out or deposit money
-Process - Reading card, displaying information, selecting amount of money, spitting out or depositing the correct amount of momey
+People 
+* Anyone who interacts with the machine and take out or deposit money
+
+Process 
+* Reading card
+* Displaying information
+* Selecting amount of money
+* Spitting out or depositing the correct amount of momey
 
 # Github
 
