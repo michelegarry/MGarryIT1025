@@ -12,8 +12,16 @@ Hardware
 * CPU 
 * Display 
 * Receipt printer
-Software - Microsoft Windows, Linux 
-Data - Account balance, names, transactions
+
+Software
+* Microsoft Windows 
+* Linux
+
+Data 
+* Account balance
+* Names
+* Transactions
+
 People - Anyone who interacts with the machine and take out or deposit money
 Process - Reading card, displaying information, selecting amount of money, spitting out or depositing the correct amount of momey
 
