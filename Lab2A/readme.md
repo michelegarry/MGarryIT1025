@@ -1,6 +1,6 @@
 
 # Executive Summary
-Summarize this assignment and the goal of this lab
+The goal of this lab is to recognize and be able to describe the functions of computer hardware. That way you know what is inside of a computer, and what each part is responsible for.
 
 # Hardware
 ## Hard Drives and Memory
