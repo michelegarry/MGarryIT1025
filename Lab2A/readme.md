@@ -5,7 +5,7 @@ The goal of this lab is to recognize and be able to describe the functions of co
 # Hardware
 ## Hard Drives and Memory
 * What is the difference between latency and transfer rates in the performance of a hard drive?
-    * Latency 
+    * Latency in terms of hard drive performance is the time delay from the initial request for data and the return of it. Transfer rates are the speed that the data is transferred to the hard drive.
 * How a solid state (SSD) hard drive is different from a traditional hard drive?
     * The major difference between a Hard Disk Drive and an SSD is that a Solid State Drive does not have a spinning disk where it reads and writes data on. It stores the data immediately on the memory chips. There is less latency with SSD's becasue the information can be accessed right away.
 * Why does increasing RAM make the computer run faster?
@@ -15,6 +15,7 @@ The goal of this lab is to recognize and be able to describe the functions of co
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
+   * The control unit recieves the instructions from the RAM, to which it then sends the mathmatical operations tasks to the ALU (Arithmetic Logic Unit) which performs the task, and then depending on the circumstance, outputs the answer.
 
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
