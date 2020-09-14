@@ -25,9 +25,9 @@ The goal of this lab is to recognize and be able to describe the functions of co
 
 ## Numeric Conversions
 * Explain the difference between decimal, binary and hexadecimal numbers
-   * Decimal number system goes by a base of 10, so it has 10 digits represent numbers. So each numerical place holder is a power of 10. 
-   * Binary has a base of 2, so it has 2 digits it uses to represent numbers. Each numerical place holder is a power of 2 then. 
-   * Hexadecimal number system has a base of 16, so 16 digits included in this system. Each numerical place holder has a power of 16.
+   * Decimal number system goes by a base of 10, so it has 10 digits that represent numbers. So each numerical place holder is a power of 10. 
+   * Binary has a base of 2, so it has 2 digits it uses to represent numbers. Each numerical place holder is a power of 2. 
+   * Hexadecimal number system has a base of 16, so 16 digits are included in this system. Each numerical place holder has a power of 16.
 * Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file)
    * = 11010011
 * Convert the binary number 101101010 to decimal (show your work)
