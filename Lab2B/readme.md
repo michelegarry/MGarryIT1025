@@ -11,14 +11,13 @@ The goal of this lab is to get familiar with logic gates and how they function. 
 * Explain what is meant by a truth table and apply your knowledge to a NAND gate.
   * A truth table is meant to display the rule of the specific gate, and list the possible inputs, and outputs.
   * InputA   InputB   Output   
-  * 0         0         1         
-  * 1         0         1
-  * 0         1         1
-  * 1         1         0
+  * 0        * 0        * 1         
+  * 1        * 0        * 1
+  * 0        * 1        * 1
+  * 1        * 1        * 0
 * How does the NAND gate truth table compare to that of an AND gate? 
-  *
+  * The outputs of a NAND gate are the oposite of the AND gate.
 * Complete the logic gate exercises word doc and upload to this folder.
-  *
 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
