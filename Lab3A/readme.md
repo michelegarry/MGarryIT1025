@@ -1,5 +1,5 @@
 # Executive Summary
-    The point of this lab is to make you familiar with what software is, and what it does for the computer. Also, to learn about what virtualization is and how it is beneficial in todays world of technology. To understand the difference this and cloud computing as well.
+The point of this lab is to make you familiar with what software is, and what it does for the computer. Also, to learn about what virtualization is and how it is beneficial in todays world of technology. To understand the difference this and cloud computing as well.
 
 # Software 
 * Explain the roles of application, utility and operating system software. Give an example of each. 
