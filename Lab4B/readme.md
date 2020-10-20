@@ -12,7 +12,7 @@ Use the following resource (or one of your choice) as a guide: https://www.tutor
 
 Download your chart as a jpg file and name it: DecisionFlowchart and upload the file to your GitHub lab folder
 
-Share your experience using Lucidchart in a paragraph (3-4 lines)
+* Share your experience using Lucidchart in a paragraph (3-4 lines)
       * It was very easy to use and navigate when building the flowchart. I liked how easily you could fix mistakes, or move things around without messing up the flow. They also provide help with navigating the tools, if needed, which came in handy.
 
 # Networking
