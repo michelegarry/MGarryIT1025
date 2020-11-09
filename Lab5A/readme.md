@@ -1,5 +1,5 @@
 # Executive Summary
-Explain the goal for this lab
+The goal for this lab is to get a better idea of the elements of encrypting data and 
 
 # Cybersecurity and Encryption
 
