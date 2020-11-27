@@ -28,7 +28,7 @@ Then explain the encryption here:
 
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result.
 b) Would it be different for different languages?
-  * a) "Have a good day" matches somewhat with the frequency exploration. It says the most frequent vowel is e, which a was actually most used.
+  * a) "Have a good day" matches somewhat with the frequency exploration. It says the most frequent vowel is e usually, which a was actually most used.
   * b) It would be different for different languages because we don't all use the same letters/characters in the same word, so it would be different depending on the language.
 
 * What is a "Polyalphabetic cipher?"
