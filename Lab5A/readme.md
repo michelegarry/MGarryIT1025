@@ -11,15 +11,15 @@ The goal for this lab is to get a better idea of the elements of encrypting data
   * Accessing e-mail, logging onto your bank account, and logging into the computer. E-mail can become multi-factor and send the phone number on file a confirmation number to enter. Logging into your bank account, you can also have your phone or e-mail connected that sends you a one-time code to enter in to be able to log on, or even use a finger print to gain access. A computer requires a pin or passcode, and some can also confirm with facial recognition.
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
   * ACL - Access Control List
-    * Advantages:
-    * Disadvantages:
+    * Advantages: Access is easier to go over to see who has acccess to what
+    * Disadvantages: May be harder to remove access
   * RBAC - Role-Based Access Control
-    * Advantages:
-    * Disadvantages:
+    * Advantages: Naming scheme is clear and concise, security is more on point with each users permissions
+    * Disadvantages: The set-up is large amount of work, sometimes it is hard to assign permissions individually instead of as a whole
 * Explain the interaction of ciphertext, a public key and a private key
-  * 
+  * The publlic key is used to encrypt the data present, which turns that darta into cipher text. The private key is used to read this cipher text.
 * Explain why we need public key cryptography.
-  * We need public key cryptography
+  * We need public key cryptography because this allows us to have the ability to decrypt and encrypt important data so it does not get intercepted. 
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message.
@@ -39,7 +39,8 @@ Explain the result.
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
+  * Brute-force can be described as an attack that tries every decryption key possible to crack the code. Kerckhoffs's principle related to this because it mentions that even if someone can get their hands on the correct key, it should still be secure.
 
 # Conclusion
-Summarize how this lab was useful to you and what you learnt that really interested you!
+This lab was useful for the introduction to cryptography, and cybersecurity. I really didn't think about how they sent messages in the past like that, I found that very interesting that systems like that came out to make sure secret messages were not read by someone other than the people involved. It is also fascinating to see how much in our everyday lives cybersecurity is actually apart of.
 
