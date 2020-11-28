@@ -4,7 +4,8 @@ Include your executive summary here...
 # Internet Architecture
 
 ## Internet Protocol
-* What is an IP address and what is the difference between IPv4 and IPv6? 
+* What is an IP address and what is the difference between IPv4 and IPv6?
+    * An Internet Protocol (IP) Address is the specific number assigned to a device on a network. IPv6 has a 128-bit address, therefore has many more available addressses to use vs IPv4 which is a 32-bit address.
 * Find the IP address of your computer by typing ipconfig at the command prompt (refer back to the "Operating Systems" module for details.) 
   Take a screenshot of the command without including the IP address to show your success, name the file ipconfig and upload to the lab folder on GitHub. 
 * What is ICANN and how do they contribute to the global Internet? 
