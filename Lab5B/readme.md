@@ -9,7 +9,7 @@ Include your executive summary here...
 * Find the IP address of your computer by typing ipconfig at the command prompt (refer back to the "Operating Systems" module for details.) 
   Take a screenshot of the command without including the IP address to show your success, name the file ipconfig and upload to the lab folder on GitHub. 
 * What is ICANN and how do they contribute to the global Internet? 
-   * 
+   * ICANN = Internet Corporation for Assigned Names and Numbers. They contribute to the global internet because they organize all of these names and numbers all over the world.
 
 ## TCP/IP
 
