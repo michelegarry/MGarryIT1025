@@ -5,10 +5,12 @@ Talk about what the goal of this lab is !
 ## Relational Data
 
 * What is the difference between data, information and knowledge? 
+ * Data is mostly the raw pieces of information. Information is data with context. Knowledge is obtained when given that information.
 
 * If you were creating a database for a small company and two tables you identify are customers and orders explain the following:
 (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
 a) What would be the primary key in the customers and orders table? 
+ * 
 
 b) How would the customers and orders table be related? 
 
